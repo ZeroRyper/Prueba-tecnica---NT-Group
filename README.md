@@ -1,5 +1,6 @@
 # Prueba-tecnica---NT-Group
 Guia ejecucion 
+
 docker-compose up -d
 
 pip install -r requirements.txt
